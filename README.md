@@ -8,10 +8,10 @@ El ritmo se puede moficar con el sleep, sin embargo, recomiendo que dado el mane
 
 Si quieren tocar la canción de Manuelita (la tortuga) es:
 
-q w e q
-q w e q
-e r t
-e r t
-t y t r e q
-t y t r e q
-t r q t r q
+- q w e q
+- q w e q
+- e r t
+- e r t
+- t y t r e q
+- t y t r e q
+- t r q t r q
