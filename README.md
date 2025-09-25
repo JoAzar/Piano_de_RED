@@ -15,3 +15,7 @@ Si quieren tocar la canción de Manuelita (la tortuga) es:
 - t y t r e q
 - t y t r e q
 - t r q t r q
+
+---
+
+Derechos de autor: Red
